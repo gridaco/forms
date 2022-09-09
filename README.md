@@ -1,2 +1,2 @@
-# forms
-Free rich forms service (A typeform payment version alternative)
+# Grida Forms
+Free rich forms service (An open source Typeform alternative)
